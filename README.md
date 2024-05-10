@@ -1,3 +1,11 @@
+### This is a port to make life easier for ZeroGPU Users on HuggingFace, as well as good excercise.
+## When Hosted will link the Space for all to use.
+For now its pre-alpha, running live so expect not working as intended, as intended.
+
+All rights go to the original repo, this is just a fork.
+
+
+# Below is original README.md
 # XTTS-RVC-UI
 
 This is a simple UI that utilize's [Coqui's XTTSv2](https://github.com/coqui-ai/TTS) paired with RVC functionality to improve output quality.
